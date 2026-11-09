@@ -106,7 +106,7 @@ Agent runtime on **LangGraph** — a planner builds a dependency DAG and a sched
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,js,cpp,c,java,sqlite,git,github,latex,vscode&perline=13" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,aws,js,cpp,c,java,sqlite,git,github,latex,vscode&perline=12" alt="Tech stack"/>
 </p>
 
 <p align="center">
