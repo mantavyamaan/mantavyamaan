@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/mantavya-maan-892304277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://mantavyamaan.github.io/"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:maanmantavya.iitb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mantavyamaan&style=for-the-badge&color=00D9F5&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://github.com/mantavyamaan"><img src="https://komarev.com/ghpvc/?username=mantavyamaan&style=for-the-badge&color=00D9F5&label=PROFILE+VIEWS" alt="Profile views"/></a>
 </p>
 
 ---
