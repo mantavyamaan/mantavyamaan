@@ -126,16 +126,21 @@ Agent runtime on **LangGraph** — a planner builds a dependency DAG and a sched
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mantavyamaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantavyamaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits per language"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mantavyamaan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mantavyamaan&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
 </p>
 
 <p align="center">
