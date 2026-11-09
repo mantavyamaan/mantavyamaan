@@ -1,32 +1,152 @@
-### Hi, I'm Mantavya 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7B2FF7&height=220&section=header&text=Mantavya%20Maan&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI%20Infrastructure%20%C2%B7%20LLM%20Systems%20%C2%B7%20IIT%20Bombay&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Mantavya Maan"/>
+</p>
 
-Mathematics student at **IIT Bombay** (graduating May 2027). I build the decision layer for LLM systems — routing, evaluation, and orchestration — and the statistics that keep them honest.
+<p align="center">
+  <a href="https://github.com/mantavyamaan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D9F5&center=true&vCenter=true&width=720&lines=Building+the+decision+layer+for+LLM+systems;Routing+%C2%B7+Evaluation+%C2%B7+Agent+Orchestration;65%25+faster+LLM+routing+in+Neural+Gateway;Mathematics+%40+IIT+Bombay+%E2%80%94+graduating+2027;Open+to+remote+AI%2FML+internships+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mantavya-maan-892304277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mantavyamaan.github.io/"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:maanmantavya.iitb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mantavyamaan&style=for-the-badge&color=00D9F5&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 ---
 
-#### Featured work
+<!-- ===================== ABOUT ===================== -->
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-| Project | What it does | Highlights |
-| --- | --- | --- |
-| **[Neural Gateway](https://github.com/mantavyamaan/Neural-Gateway)** · [demo](https://mantavyamaan.github.io/Neural-Gateway/demo) | LLM routing control plane. Scores candidate models on quality, cost, latency and reliability, reduces them to a Pareto frontier, and estimates confidence with Thompson sampling — abstaining when no model clearly wins. | 65% lower end-to-end latency (2,250 → 830 ms) · parser trained on 6,000+ labeled prompts · live OpenRouter pricing sync |
-| **[Prompt Optimizer](https://github.com/mantavyamaan/Prompt_optimizer)** · [demo](https://mantavyamaan.github.io/Prompt_optimizer/docs/) | Local-first LLMOps loop that evolves prompts and promotes them only on evidence. | Anytime-valid confidence sequences · champion–challenger gate with format, adversarial and p95-latency fences · shadow A/B on 10% of traffic |
-| **[Multi-Agent Orchestrator](https://github.com/mantavyamaan/Multi-Agent-Orchestrator)** · [demo](https://mantavyamaan.github.io/Multi-Agent-Orchestrator/demo) | Agent runtime on LangGraph. A planner builds a dependency DAG; a scheduler fans ready tasks out to parallel workers. | Map-Reduce via the Send API · dynamic tool binding · SQLite checkpointing + ChromaDB memory |
-| **[DocuMind AI](https://github.com/mantavyamaan/DocuMind-AI)** | Local RAG pipeline that answers from your own documents with citations. | Runs fully offline with Ollama + ChromaDB · built-in grounding evaluation |
-| **[Lead Score](https://github.com/mantavyamaan/Lead_Score)** · [console](https://mantavyamaan.github.io/Lead_Score/lead-score-console.html) | Explainable lead-qualification model. | 10 parameters · Bayesian priors and Beta confidence intervals · hard qualification gates |
+### 🧠 About me
 
-<sub>[Atlas Router](https://github.com/mantavyamaan/Atlas-Router) is the browser-portable prototype that became Neural Gateway.</sub>
+```python
+class Mantavya:
+    education  = "B.S. Mathematics, IIT Bombay  (2023 – 2027)"
+    minor      = "Game Theory & Logic, CSE"
+    builds     = ["LLM routing", "LLM evaluation", "agent orchestration", "RAG"]
+    toolkit    = ["Bayesian inference", "Thompson sampling", "sequential testing",
+                  "multi-objective optimization"]
+    experience = ["Palpx", "Gradpipe", "Fino Payments Bank"]
+    status     = "Open to remote AI/ML & AI-infra internships"
+
+    def philosophy(self):
+        return "Ship systems that know when they're uncertain."
+```
+
+<br clear="right"/>
 
 ---
 
-#### Experience
-- **Palpx** — Mathematical Modeling & AI Intern (2026)
-- **Gradpipe** — ML & Data Engineering Intern (2025)
-- **Fino Payments Bank** — Data Analytics Intern (2025)
+<!-- ===================== PROJECTS ===================== -->
+### 🚀 Featured work
 
-#### Stack
-Python · FastAPI · LangGraph · LangChain · ChromaDB · Pinecone · ONNX · NumPy · Pandas · scikit-learn · PyTorch · SQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### Open to
-Remote AI/ML and AI-infrastructure internships alongside my final year.
+#### ⚡ [Neural Gateway](https://github.com/mantavyamaan/Neural-Gateway)
+LLM routing control plane — scores models on quality, cost, latency and reliability, reduces to a **Pareto frontier**, and uses **Thompson sampling** to decide, abstaining when no model clearly wins.
 
-📫 maanmantavya.iitb@gmail.com · [LinkedIn](https://www.linkedin.com/in/mantavya-maan-892304277) · [Portfolio](https://mantavyamaan.github.io/)
+`65% lower latency` `6,000+ labeled prompts` `live OpenRouter sync`
+
+<a href="https://mantavyamaan.github.io/Neural-Gateway/demo"><img src="https://img.shields.io/badge/Live_Demo-00D9F5?style=flat-square&logo=vercel&logoColor=black" alt="demo"/></a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧪 [Prompt Optimizer](https://github.com/mantavyamaan/Prompt_optimizer)
+Local-first LLMOps loop that evolves prompts and promotes them **only on evidence** — anytime-valid confidence sequences and a champion–challenger gate.
+
+`sequential testing` `shadow A/B on 10% traffic` `p95 latency fences`
+
+<a href="https://mantavyamaan.github.io/Prompt_optimizer/docs/"><img src="https://img.shields.io/badge/Live_Demo-00D9F5?style=flat-square&logo=vercel&logoColor=black" alt="demo"/></a>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕸️ [Multi-Agent Orchestrator](https://github.com/mantavyamaan/Multi-Agent-Orchestrator)
+Agent runtime on **LangGraph** — a planner builds a dependency DAG and a scheduler fans ready tasks out to parallel workers.
+
+`Map-Reduce DAG` `dynamic tool binding` `persistent memory`
+
+<a href="https://mantavyamaan.github.io/Multi-Agent-Orchestrator/demo"><img src="https://img.shields.io/badge/Live_Demo-00D9F5?style=flat-square&logo=vercel&logoColor=black" alt="demo"/></a>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 [DocuMind AI](https://github.com/mantavyamaan/DocuMind-AI) &nbsp;·&nbsp; 📈 [Lead Score](https://github.com/mantavyamaan/Lead_Score)
+**DocuMind** — fully offline RAG over your own documents, with citations and grounding evaluation.
+
+**Lead Score** — explainable lead-qualification model: 10 parameters, Bayesian priors, Beta confidence intervals, hard gates.
+
+<a href="https://mantavyamaan.github.io/Lead_Score/lead-score-console.html"><img src="https://img.shields.io/badge/Lead_Score_Console-00D9F5?style=flat-square&logo=jupyter&logoColor=black" alt="console"/></a>
+<img src="https://img.shields.io/badge/RAG-7B2FF7?style=flat-square" alt="RAG"/>
+
+</td>
+</tr>
+</table>
+
+<sub>💡 [Atlas Router](https://github.com/mantavyamaan/Atlas-Router) is the browser-portable prototype that became Neural Gateway.</sub>
+
+---
+
+<!-- ===================== STACK ===================== -->
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,sklearn,js,cpp,c,java,sqlite,git,github,latex,vscode&perline=13" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00D9F5" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+---
+
+<!-- ===================== STATS ===================== -->
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mantavyamaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantavyamaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mantavyamaan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mantavyamaan&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mantavyamaan/mantavyamaan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mantavyamaan/mantavyamaan/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/mantavyamaan/mantavyamaan/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D9F5,100:00F5A0&height=120&section=footer" width="100%" alt="footer"/>
+</p>
